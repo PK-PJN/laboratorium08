@@ -1,5 +1,5 @@
 # Przetwarzanie języka naturalnego
-## Laboratorium 8: Modele wektorowe (*word embeddings*)
+# Laboratorium 8: modele wektorowe (*word embeddings*)
 
 1. Dzięki łatwo dostępnym wielkim korpusom tekstów
 (np. Wikipedii) w ostatnich latach powstało
